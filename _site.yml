@@ -1,9 +1,13 @@
-name: "personal-website"
+name: "Brielle Kwarta's-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Brielle's Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
