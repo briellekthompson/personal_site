@@ -8,7 +8,7 @@ The Quantitative Ecology and Resource Management program at the UW is providing 
 # Current Projects:
 1. Reviewing different spatio-temporal models that are used in invasive species management. 
 2. Creating an adaptive management framework for an invasive species. Case Study: Rusty Crayfish in John Day River, Oregon
-3.  Creating an adaptive management framework for invasive flowering rush under different climate scenarios. 
+3. Creating an adaptive management framework for invasive flowering rush under different climate scenarios. 
 
 
 # Before coming to UW: 
