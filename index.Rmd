@@ -1,5 +1,5 @@
 ---
-title: "Brielle Kwarta's Website"
+title: "Brielle Kwarta Thompson's Website"
 ---
 
 ```{r, echo = FALSE, out.width = "200px", out.height= "200px"}
@@ -7,7 +7,7 @@ knitr::include_graphics("KwartaWebsitePhoto.jpg")
 ```
 
 
-Hi! I am a second-year graduate student at the University of Washington in the Quantitative Ecology and Resource Management (QERM) program. 
+Hi! I am a third-year graduate student at the University of Washington in the Quantitative Ecology and Resource Management (QERM) program. 
 
 My graduate research involves applying mathematical, statistical, and geospatial models to better inform invasive species management.  
 
