@@ -1,5 +1,5 @@
 ---
-title: "Brielle Kwarta Thompson's Website"
+title: "Brielle Kwarta Thompson"
 ---
 
 ```{r, echo = FALSE, out.width = "200px", out.height= "200px"}
