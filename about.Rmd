@@ -6,15 +6,21 @@ title: "About Me"
 The Quantitative Ecology and Resource Management program at the UW is providing me with the mathematical, statistical, data science, and optimization skills to thrive in my research. Using mathematical models, my goal for my graduate research is to better inform invasive species management.
 
 # Current Projects:
-1. Reviewing different spatio-temporal models that are used in invasive species management. 
-2. Creating an adaptive management framework for an invasive species. Case Study: Rusty Crayfish in John Day River, Oregon
-3. Creating an adaptive management framework for invasive flowering rush under different climate scenarios. 
-
+1. Creating a review of mechanistic invasive species management models and their application in conservation ([publication link](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.533)). 
+2. Building a framework for adaptive management of an invasive species. Case Study: Rusty Crayfish in John Day River, Oregon (link to lecture [here](https://www.youtube.com/watch?v=MzmbqlPJtyA&t=225s))
+3. Integrating monitoring data streams to inform management of invasive species. Case study: Flowering Rush, Columbia River Basin
+4. Understanding the effect of management cooperation on invasive species control using game theory
 
 # Before coming to UW: 
 I received my bachelor’s at Houghton College in Western New York, I majored in mathematics and minored in biology and education while playing Division III soccer. After taking upper level applied math courses, I found my niche in mathematical ecology and started to immerse myself in research. During my sophomore year, I was involved in a summer research project that mathematically modeled the optimal growth strategy of the northern pitcher plant, a carnivorous plant, in various nitrogen environments. During my junior year, I completed summer research at the National Institute for Mathematical and Biological Synthesis at the University of Tennessee with Dr. Suzanne Lenhart and Dr. Charles Sims and built a feral cat population model that incorporated the economic costs associated with possible management strategies to give guidance about policy decisions (see news link [here](http://www.nimbios.org/sre/kwarta_sre2018) ). Throughout my final semester, I studied antipredator responses of the Northern dusky salamander in a lab setting. Upon graduating in December 2018, I accepted an internship at Oak Ridge National Laboratory to work on a project that used satellite imagery and geospatial techniques to identify potential natural land corridors in East Tennessee to facilitate safe movement of black bears across a landscape to alleviate the problem of land fragmentation.
 
 # Prior to UW projects:
-1.	Science Undergraduate Laboratory Intern at Oak Ridge National Laboratory. Project title: The value of protected lands in a network of natural corridors for black bears in East Tennessee  
-2.	Summer Research Experience at the National Institute for Mathematical and Biological Synthesis (NIMBioS). Project title: Economic Modeling of Free-Roaming Cats in Knox County, TN
+1.	Science Undergraduate Laboratory Intern at Oak Ridge National Laboratory. Project title: The value of protected lands in a network of natural corridors for black bears in East Tennessee 
+2.	Summer Research Experience at the National Institute for Mathematical and Biological Synthesis (NIMBioS). Project title: Economic Modeling of Free-Roaming Cats in Knox County, TN  ([publication link](https://www.sciencedirect.com/science/article/pii/S0921800922002452))
+
+# Science outreach and engagement:
+Outside of research, I prioritize sharing my knowledge with diverse audiences to inspire admiration for nature and improve public knowledge regarding how scientists tackle environmental problems. I am a board member of an outreach program called Students Explore Aquatic Sciences ([SEAS](https://fish.uw.edu/alumni-community/students-explore-aquatic-sciences-seas/)) and I have helped develop lesson plants for graduate students to teach at local schools. I also helped organize activities for the 2021,2022, and 2023 SEAS Open House events, a family-friendly event consisting of hands-on science activities. 
+
+
+I am also involved in various mentorship programs to provide guidance, motivation, emotional support, and role modeling for students studying environmental science. One of the mentorship programs is the University of Washington’s College of Environment Undergraduate Peer Mentorship Program where I meet with an undergraduate student biweekly to guide the student in pursuing a career in environmental science. Also, I engage in the QERM Peer Mentorship program, which I co-founded in 2020 with two other QERM students. This program pairs 1st year QERM graduate students with 2nd+ year graduate students. The goal of this mentorship program is to promote camaraderie and retention in our graduate program. Through my scientific outreach events and mentorship programs, I hope to make an impact on my community by strengthening connections between environmental science and society.
 
