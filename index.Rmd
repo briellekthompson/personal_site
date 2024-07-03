@@ -11,9 +11,9 @@ knitr::include_graphics("floweringrushlong.JPG")
 I am a postdoctoral fellow in the Missouri Cooperative Fish and Wildlife Research Unit at the University of Missouri -I heard the cool kids call it Mizzou. I currently work with [Dr. Craig Paukert](http://www.riverstudies.com/) (Mizzou) and [Dr. Mike Colvin](https://www.usgs.gov/staff-profiles/mike-colvin) (USGS) to apply quantitative population models and decision analysis tools to better inform invasive carp management in North America.
 
 ### Education:
-* Ph.D. in Quantitative ecology and Resource Management (QERM), June 2024
+* **Ph.D.** in Quantitative ecology and Resource Management (QERM), **University of Washington**, June 2024
   + Co-advised by [Dr. Julian Olden](http://depts.washington.edu/oldenlab/) and [Dr. Sarah Converse](http://depts.washington.edu/qcons/).
-* B.A. in Mathematics (minors: Biology, Education) Houghton College, December 2018
+* **B.A.** in Mathematics (minors: Biology, Education) **Houghton College**, December 2018
 
 ### Research interests:
 * Quantitative ecology
