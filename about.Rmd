@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-```{r, echo = FALSE, out.width = "100px", out.height= "100px", fig.align = "left"}
+```{r, echo = FALSE, out.width = "150px", out.height= "150px", fig.align = "left"}
 knitr::include_graphics("KwartaWebsitePhoto.jpg")
 ```
 
