@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -252,6 +249,9 @@ $(document).ready(function () {
 <li>
   <a href="about.html">About Me</a>
 </li>
+<li>
+  <a href="Research.html">Research</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -269,93 +269,30 @@ $(document).ready(function () {
 </div>
 
 
-<div id="at-uw" class="section level1">
-<h1>At UW:</h1>
-<p>The Quantitative Ecology and Resource Management program at the UW is
-providing me with the mathematical, statistical, data science, and
-optimization skills to thrive in my research. Using mathematical models,
-my goal for my graduate research is to better inform invasive species
-management.</p>
-</div>
-<div id="current-projects" class="section level1">
-<h1>Current Projects:</h1>
+<p><img src="KwartaWebsitePhoto.jpg" width="100px" height="100px" style="display: block; margin: auto auto auto 0;" /></p>
+<div id="fun-facts-about-me" class="section level2">
+<h2>10 fun facts about me!</h2>
 <ol style="list-style-type: decimal">
-<li>Creating a review of mechanistic invasive species management models
-and their application in conservation (<a
-href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.533">publication
-link</a>).</li>
-<li>Building a framework for adaptive management of an invasive species.
-Case Study: Rusty Crayfish in John Day River, Oregon (link to lecture <a
-href="https://www.youtube.com/watch?v=MzmbqlPJtyA&amp;t=225s">here</a>)</li>
-<li>Integrating monitoring data streams to inform management of invasive
-species. Case study: Flowering Rush, Columbia River Basin</li>
-<li>Understanding the effect of management cooperation on invasive
-species control using game theory</li>
+<li>I grew up in Rochester, New York (go Bills!)</li>
+<li>I played division III soccer at Houghton College in Western New
+York</li>
+<li>I also played division III lacrosse (I was much better at
+soccer…)</li>
+<li>I run marathons (Boston Marathon x2, Chicago Marathon, Seattle
+Marathon, Eugene Marathon, 2020 Virtual Marathon)</li>
+<li>I met my husband, Alex, in Knoxville, Tennessee and we eloped in
+Coeur D’alene, Idaho in 2021</li>
+<li>We adopted our dog Bandy (named after Bandy Creek campground in Big
+South Fork) in 2022</li>
+<li>Although I am a quantitative ecologist, I absolutely love
+opportunities to get in the field!</li>
+<li>I became interested in aquatic invasive species at a young age when
+my cousins and I used to scrape zebra mussels off rocks at the bottom of
+Skaneateles Lake, NY</li>
+<li>Sturgeon are my favorite type of fish!</li>
+<li>My favorite type of water body ranking is: River &gt; Lake &gt;
+Ocean</li>
 </ol>
-</div>
-<div id="before-coming-to-uw" class="section level1">
-<h1>Before coming to UW:</h1>
-<p>I received my bachelor’s at Houghton College in Western New York, I
-majored in mathematics and minored in biology and education while
-playing Division III soccer. After taking upper level applied math
-courses, I found my niche in mathematical ecology and started to immerse
-myself in research. During my sophomore year, I was involved in a summer
-research project that mathematically modeled the optimal growth strategy
-of the northern pitcher plant, a carnivorous plant, in various nitrogen
-environments. During my junior year, I completed summer research at the
-National Institute for Mathematical and Biological Synthesis at the
-University of Tennessee with Dr. Suzanne Lenhart and Dr. Charles Sims
-and built a feral cat population model that incorporated the economic
-costs associated with possible management strategies to give guidance
-about policy decisions (see news link <a
-href="http://www.nimbios.org/sre/kwarta_sre2018">here</a> ). Throughout
-my final semester, I studied antipredator responses of the Northern
-dusky salamander in a lab setting. Upon graduating in December 2018, I
-accepted an internship at Oak Ridge National Laboratory to work on a
-project that used satellite imagery and geospatial techniques to
-identify potential natural land corridors in East Tennessee to
-facilitate safe movement of black bears across a landscape to alleviate
-the problem of land fragmentation.</p>
-</div>
-<div id="prior-to-uw-projects" class="section level1">
-<h1>Prior to UW projects:</h1>
-<ol style="list-style-type: decimal">
-<li>Science Undergraduate Laboratory Intern at Oak Ridge National
-Laboratory. Project title: The value of protected lands in a network of
-natural corridors for black bears in East Tennessee (<a
-href="https://vimeo.com/330850266/418574c83c">ignite talk link</a>)</li>
-<li>Summer Research Experience at the National Institute for
-Mathematical and Biological Synthesis (NIMBioS). Project title: Economic
-Modeling of Free-Roaming Cats in Knox County, TN (<a
-href="https://www.sciencedirect.com/science/article/pii/S0921800922002452">publication
-link</a>)</li>
-</ol>
-</div>
-<div id="science-outreach-and-engagement" class="section level1">
-<h1>Science outreach and engagement:</h1>
-<p>Outside of research, I prioritize sharing my knowledge with diverse
-audiences to inspire admiration for nature and improve public knowledge
-regarding how scientists tackle environmental problems. I am a board
-member of an outreach program called Students Explore Aquatic Sciences
-(<a
-href="https://fish.uw.edu/alumni-community/students-explore-aquatic-sciences-seas/">SEAS</a>)
-and I have helped develop lesson plants for graduate students to teach
-at local schools. I also helped organize activities for the 2021,2022,
-and 2023 SEAS Open House events, a family-friendly event consisting of
-hands-on science activities.</p>
-<p>I am also involved in various mentorship programs to provide
-guidance, motivation, emotional support, and role modeling for students
-studying environmental science. One of the mentorship programs is the
-University of Washington’s College of Environment Undergraduate Peer
-Mentorship Program where I meet with an undergraduate student biweekly
-to guide the student in pursuing a career in environmental science.
-Also, I engage in the QERM Peer Mentorship program, which I co-founded
-in 2020 with two other QERM students. This program pairs 1st year QERM
-graduate students with 2nd+ year graduate students. The goal of this
-mentorship program is to promote camaraderie and retention in our
-graduate program. Through my scientific outreach events and mentorship
-programs, I hope to make an impact on my community by strengthening
-connections between environmental science and society.</p>
 </div>
 
 

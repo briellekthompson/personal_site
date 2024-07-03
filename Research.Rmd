@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+## Postdoc Projects (2024- Present): ##
+* Using decision analysis and population modeling tools to inform invasive carp management in North America
+
+## PhD Projects (2019-2024):
+* Created a review of mechanistic invasive species management models and their application in conservation ([publication link](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.533)). 
+* Built a spatial temporal population model to test invasive species management strategies. Case Study: Rusty Crayfish in John Day River, Oregon (link to lecture [here](https://www.youtube.com/watch?v=MzmbqlPJtyA&t=225s))
+* Integrated monitoring data streams to inform adaptive management of invasive species. Case study: Flowering Rush, Columbia River Basin
+* Compared Multiple Criteria Decision Analysis and game theoretic tools to inform multiple decision maker settings for invasive species management
+
+
+## Prior to PhD projects (2017-2019):
+*	2019: Science Undergraduate Laboratory Intern at Oak Ridge National Laboratory. Project title: The value of protected lands in a network of natural corridors for black bears in East Tennessee ([ignite talk link](https://vimeo.com/330850266/418574c83c))
+*	2018: Summer Research Experience at the National Institute for Mathematical and Biological Synthesis (NIMBioS). Project title: Economic Modeling of Free-Roaming Cats in Knox County, TN  ([publication link](https://www.sciencedirect.com/science/article/pii/S0921800922002452))
+* 2017: Summer Research Institute at Houghton College. Project title: Optimal resource allocation of the northern pitcher plant using optimal control theory
+

@@ -2,22 +2,30 @@
 title: "Brielle Kwarta Thompson"
 ---
 
-```{r, echo = FALSE, out.width = "200px", out.height= "200px"}
-knitr::include_graphics("KwartaWebsitePhoto.jpg")
-```
-
-
-Hi! I am a graduate student at the University of Washington in the Quantitative Ecology and Resource Management (QERM) program. 
-
-My graduate research involves applying mathematical, statistical, and geospatial models to better inform invasive species management.  
-
-I am co-advised by [Dr. Julian Olden](http://depts.washington.edu/oldenlab/) and [Dr. Sarah Converse](http://depts.washington.edu/qcons/).  
-
-
-Outside of research you can find me running the streets and greenways of Seattle, WA, and hiking, backpacking, and kayaking throughout the PNW.  
-
-Feel free to contact me at bkwarta@uw.edu for any questions regarding the QERM program or my research. 
 
 ```{r, echo = FALSE}
-knitr::include_graphics("Kayaking.jpg")
+knitr::include_graphics("floweringrushlong.JPG")
 ```
+
+
+
+<font size="2"> Email: brielle.thompson@missouri.edu </font>
+
+<font size="38"> Welcome! </font>
+
+I am a postdoctoral fellow in the Missouri Cooperative Fish and Wildlife Research Unit at the University of Missouri -I heard the cool kids call it Mizzou. I currently work with [Dr. Craig Paukert](http://www.riverstudies.com/) (Mizzou) and [Dr. Mike Colvin](https://www.usgs.gov/staff-profiles/mike-colvin) (USGS) to apply quantitative population models and decision analysis tools to better inform invasive carp management in North America.
+
+### Education:
+* Ph.D. in Quantitative ecology and Resource Management (QERM), June 2024
+  + Co-advised by [Dr. Julian Olden](http://depts.washington.edu/oldenlab/) and [Dr. Sarah Converse](http://depts.washington.edu/qcons/).
+* B.A. in Mathematics (minors: Biology, Education) Houghton College, December 2018
+
+### Research interests:
+* Quantitative ecology
+* Invasive species management
+* Decision analysis (Structured Decision Making, adaptive management)
+* Game theory applications to natural resource management
+* Bayesian statistics
+
+Feel free to contact me at brielle.thompson@missouri.edu for any questions regarding my research or experience in the QERM program at the University of Washington.
+
