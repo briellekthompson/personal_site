@@ -2,16 +2,11 @@
 title: "Brielle Kwarta Thompson"
 ---
 
-
 ```{r, echo = FALSE}
 knitr::include_graphics("floweringrushlong.JPG")
 ```
 
-
-
-<font size="2"> Email: brielle.thompson@missouri.edu </font>
-
-<font size="38"> Welcome! </font>
+# Welcome !
 
 I am a postdoctoral fellow in the Missouri Cooperative Fish and Wildlife Research Unit at the University of Missouri -I heard the cool kids call it Mizzou. I currently work with [Dr. Craig Paukert](http://www.riverstudies.com/) (Mizzou) and [Dr. Mike Colvin](https://www.usgs.gov/staff-profiles/mike-colvin) (USGS) to apply quantitative population models and decision analysis tools to better inform invasive carp management in North America.
 
@@ -28,4 +23,3 @@ I am a postdoctoral fellow in the Missouri Cooperative Fish and Wildlife Researc
 * Bayesian statistics
 
 Feel free to contact me at brielle.thompson@missouri.edu for any questions regarding my research or experience in the QERM program at the University of Washington.
-
