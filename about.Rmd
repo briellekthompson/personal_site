@@ -3,10 +3,16 @@ title: "About Me"
 ---
 
 ```{r, echo = FALSE, out.width = "150px", out.height= "150px", fig.align = "left"}
-knitr::include_graphics("KwartaWebsitePhoto.jpg")
+#knitr::include_graphics("KwartaWebsitePhoto.jpg")
 ```
 
 ## 10 fun facts about me!
+
+<div style= "float:right;position: relative; top: -80px;">
+```{r, echo = FALSE, out.width = "320px", out.height= "450px", fig.align = "left"}
+knitr::include_graphics("aboutmepic.jpg")
+```
+</div>
 
 1. I grew up in Rochester, New York (go Bills!)
 2. I played division III soccer at Houghton College in Western New York 
