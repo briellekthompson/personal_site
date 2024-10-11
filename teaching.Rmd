@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+---
+## Teaching Experiences
+
+After realizing I was 'decent at math' I sought to be a high school math teacher. However, early in my undergraduate career I quickly fell in love with research and subsequently pursued research experiences and graduate school. Fortunately the 'teaching bug' has never left, I received an undergraduate minor in Education and I have enjoyed TA-ing several classes and teaching numerous workshops.  
+
+* Teaching assistant experiences: 
+  + Calculus Analysis for Biologists -University of Washington
+  + Calculus I -Houghton College
+  + Calculus II -Houghton College
+  + Calculus for the life sciences -Houghton College
+  + Math explorations: Mathematics and Music -Houghton College
+  + Biodiversity -Houghton College
+  
+* Workshop teaching experiences: 
+  + Fundamentals of Structured Decision Making - The Wildlife Society Conference 2023
+  + Overview of Structured Decision Making: A primer on Value-Focused Thinking - Washington Department of Fish and Wildlife 2022 & 2023
+   + [Introduction to spatial data in R](https://github.com/briellekwarta19/makingmaps_QERM597) - University of Washington 
+  + [Git and Github for the scientific programmer](https://github.com/briellekwarta19/GSS-github-workshop) - University of Washington 2021
+ 
+  
+*  Guest lecture experiences: 
+  - FISH 507: Introduction to Structured Decision Making, University of Washington
+  - QERM 597: Quantitative Ecology Seminar
+  
+
+
