@@ -18,11 +18,8 @@ After realizing I was 'decent at math' I sought to be a high school math teacher
   + Overview of Structured Decision Making: A primer on Value-Focused Thinking - Washington Department of Fish and Wildlife 2022 & 2023
    + [Introduction to spatial data in R](https://github.com/briellekwarta19/makingmaps_QERM597) - University of Washington 
   + [Git and Github for the scientific programmer](https://github.com/briellekwarta19/GSS-github-workshop) - University of Washington 2021
- 
   
-*  Guest lecture experiences: 
-  - FISH 507: Introduction to Structured Decision Making, University of Washington
-  - QERM 597: Quantitative Ecology Seminar
-  
-
+* Guest lecture experiences: 
+  + FISH 507: Introduction to Structured Decision Making, University of Washington
+  + QERM 597: Quantitative Ecology Seminar
 
