@@ -6,7 +6,7 @@ title: "Research"
 
 ## PhD Projects (2019-2024):
 * Created a review of mechanistic invasive species management models and their application in conservation ([publication link](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.533)). 
-* Built a spatial temporal population model to test invasive species management strategies. Case Study: Rusty Crayfish in John Day River, Oregon (link to lecture [here](https://www.youtube.com/watch?v=MzmbqlPJtyA&t=225s))
+* Built a spatial temporal population model to test invasive species management strategies. Case Study: Rusty Crayfish in John Day River, Oregon (link to lecture [here](https://www.youtube.com/watch?v=MzmbqlPJtyA&t=225s), [publication link](https://neobiota.pensoft.net/article/132363/))
 * Integrated monitoring data streams to inform adaptive management of invasive species. Case study: Flowering Rush, Columbia River Basin
 * Compared Multiple Criteria Decision Analysis and game theoretic tools to inform multiple decision maker settings for invasive species management
 
