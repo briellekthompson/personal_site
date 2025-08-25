@@ -6,7 +6,7 @@ title: "Teaching"
 After realizing I was 'decent at math' I sought to be a high school math teacher. However, early in my undergraduate career I quickly fell in love with research and subsequently pursued research experiences and graduate school. Fortunately the 'teaching bug' has never left, I received an undergraduate minor in Education and in my PhD, I enjoyed TA-ing several classes and teaching numerous workshops. As a postdoc, I continue to engage in several teaching opportunities. 
 
 * University teaching experiences:
-  + [Decision analysis for Research and Management of Natural Resources](https://briellekthompson.github.io/NATR_8001_DecisionAnalysis_Fall25_Mizzou/) - University of Missouri (Fall 2025)
+  + [Decision Analysis for Research and Management of Natural Resources](https://briellekthompson.github.io/NATR_8001_DecisionAnalysis_Fall25_Mizzou/) - University of Missouri (Fall 2025)
 
 * Teaching assistant experiences: 
   + Calculus Analysis for Biologists -University of Washington
