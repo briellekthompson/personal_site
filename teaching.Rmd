@@ -5,6 +5,9 @@ title: "Teaching"
 
 After realizing I was 'decent at math' I sought to be a high school math teacher. However, early in my undergraduate career I quickly fell in love with research and subsequently pursued research experiences and graduate school. Fortunately the 'teaching bug' has never left, I received an undergraduate minor in Education and in my PhD, I enjoyed TA-ing several classes and teaching numerous workshops. As a postdoc, I continue to engage in several teaching opportunities. 
 
+* University teaching experiences:
+  + [Decision analysis for Research and Management of Natural Resources](https://briellekthompson.github.io/NATR_8001_DecisionAnalysis_Fall25_Mizzou/) - University of Missouri (Fall 2025)
+
 * Teaching assistant experiences: 
   + Calculus Analysis for Biologists -University of Washington
   + Calculus I -Houghton College
@@ -14,8 +17,8 @@ After realizing I was 'decent at math' I sought to be a high school math teacher
   + Biodiversity -Houghton College
   
 * Workshop teaching experiences: 
-  + [An overview of Structured Decision Making for natural resources -Missouri Natural Resources Conference 2025](https://briellekwarta19.github.io/SDMworkshop_MNRC_2025/)
-  + [An overview of Structured Decision Making for natural resources -Midwest Fish and Wildlife Conference 2025](https://briellekwarta19.github.io/SDMworkshop_MidwestFW_2025/)
+  + [An overview of Structured Decision Making for natural resources -Missouri Natural Resources Conference 2025](https://briellekthompson.github.io/SDMworkshop_MNRC_2025/)
+  + [An overview of Structured Decision Making for natural resources -Midwest Fish and Wildlife Conference 2025](https://briellekthompson.github.io/SDMworkshop_MidwestFW_2025/)
   + Fundamentals of Structured Decision Making - The Wildlife Society Conference 2023
   + Overview of Structured Decision Making: A primer on Value-Focused Thinking - Washington Department of Fish and Wildlife 2022 & 2023
    + [Introduction to spatial data in R](https://github.com/briellekwarta19/makingmaps_QERM597) - University of Washington 
