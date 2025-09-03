@@ -23,6 +23,5 @@ I am a postdoctoral fellow in the Missouri Cooperative Fish and Wildlife Researc
 * Decision analysis (Structured Decision Making, adaptive management)
 * Game theory applications to natural resource management
 * Bayesian statistics
-* [(CV)](BrielleKThompson_CV_2025.pdf) 
 
 Feel free to contact me at brielle.thompson@missouri.edu for any questions regarding my research or experience in the QERM program at the University of Washington.
