@@ -13,6 +13,8 @@ navbar:
       href: outreach.html
     - text: "About Me"
       href: about.html
+    - text: "CV"
+      href: CV.html
 
 output:
   html_document:

@@ -1,0 +1,8 @@
+---
+title: "Brielle Kwarta Thompson"
+---
+
+## CV:
+
+
+<iframe src="https://briellekthompson.github.io/personal_site/BrielleKThompson_CV_2025.pdf" width="100%" height="800px" style="border: 1px solid #ccc;" title="CV PDF"></iframe>
